@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title:            RahulVk
+title:            Rahul Vijayakumar
 subtitle:         My Blog
 description:      This is the personal blog of RahulVk
 keywords:         demo theme example github jekyll features
@@ -15,7 +15,7 @@ language:         "en" # default language of the blog. Language codes: http://ww
 baseurl:          "" # the subpath of your site, e.g. /blog
 url:              "" # the base hostname & protocol for your site. Have a look at robots.txt as well!
 permalink:        /blog/:categories/:title
-cover:            /assets/mountain-cover.jpg
+cover:            /assets/site-bg.jpg
 disqus_shortname: "jekylldecent"
 
 # Build settings
