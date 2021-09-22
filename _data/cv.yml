@@ -1,4 +1,4 @@
-RahulVk:
+default:
     profile: "Rahul Vijayakumar's CV"
     skills:
         - "Python programming language, Flask framework"
