@@ -10,8 +10,9 @@ excerpt:   This page contains the curriculum vitae (CV) of the author.
 --- 
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 
-If you like this theme and like to show your appreciation then please leave a star in the GitHub repository or [buy me a coffee](https://www.paypal.me/jenswillmer/3) - Thank you!
+I am Rahul Vijayakumar. A Computer Science Engineering student at VIT Chennai.
+You can check out my github repositories using the below link
 
 <p class="github-button-container">
-<a class="github-button" href="https://github.com/jwillmer/jekyllDecent" data-size="large" data-show-count="true" aria-label="Star jwillmer/jekyllDecent on GitHub">jekyllDecent</a>
+<a class="github-button" href="https://github.com/rahulvk007" data-size="large" data-show-count="true" aria-label="Star rahulvk007 on GitHub">RahulVk</a>
 </p>
