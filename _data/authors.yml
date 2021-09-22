@@ -33,12 +33,13 @@ RahulVk:
   email:        "rahulvijayakumarpt4551@gmail.com"   
   twitter:      "-"    
   twitch:       "-"
-jwillmer:
-  initial:      jwillmer
-  name:         "Jens Willmer"        
-  picture:      /assets/jwillmer.jpg  
+jdecent:
+  initial:      RahulVk
+  name:         "Rahul Vijayakumar"  
+  cover:        /assets/site-bg.jpg  
+  picture:      /assets/rahulvkimg.jpg  
   bio:          All about technology 
-  location:     Germany 
-  website:      "http://jwillmer.de/cv" 
-  twitter:      jenswillmer
-  github:       jwillmer
+  location:     India 
+  website:      "" 
+  twitter:      
+  github:       
