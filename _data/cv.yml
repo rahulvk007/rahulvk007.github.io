@@ -2,7 +2,8 @@ jdecent:
     profile: "Rahul Vijayakumar's CV"
     skills:
         - "Python programming language, Flask framework"
-        - "SQL"
+        - "GUI development with Tkinter , PyQt5"
+        - "SQL, SQLite"
         - "HTML5"
         - "Deploying websites, Configuring CDN"
     education:
@@ -27,19 +28,41 @@ jdecent:
             - ""
             - ""
     projects:
-        - time:             "2020"
+    
+        - time:             "2021"
           team:             "Alone"
-          title:            "Website development with python flask and mongodb as backend"
-          technologies:     "Python,Flask,Mongodb"
+          title:            "Wikipedia Voice Search"
+          technologies:     "Python, Beautifulsoup4, Google speech recognition module"
           responsibilities:
-            - "Full development"
-       
+            - "Developer"
+    
+        - time:             "2021"
+          team:             "Team of 3"
+          title:            "HACKATHON PROJECT - Verdure Healthcare"
+          technologies:     "Python, Tkinter, MySQL"
+          responsibilities:
+            - "Team leader, Developer"
+    
+        - time:             "2021"
+          team:             "Alone"
+          title:            "Chemical elements webapp"
+          technologies:     "Python, Flask, MySQL"
+          responsibilities:
+            - "Developer"
+         
         - time:             "2021"
           team:             "Team of 3, CBSE SCHOOL PROJECT"
           title:            "Chemical elements"
           technologies:     "Python, MySQL"
           responsibilities:
             - "Developer"
+    
+        - time:             "2020"
+          team:             "Alone"
+          title:            "Website development with python flask and mongodb as backend"
+          technologies:     "Python,Flask,Mongodb"
+          responsibilities:
+            - "Full development"
 
         - time:             "January 2020"
           team:             "Alone "
