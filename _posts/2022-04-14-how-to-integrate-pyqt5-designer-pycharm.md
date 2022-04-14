@@ -49,7 +49,7 @@ Now to create a new gui , just go to designer tool
 
 And the designer window will open
 
-![designer window](https://www.rahulvk.com/assets/static/images/designer.jpg)
+![designer window](https://www.rahulvk.com/assets/images/designer.jpg)
 
 create your UI and then click on save as and save the file with .ui extension.
 
