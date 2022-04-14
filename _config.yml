@@ -3,7 +3,7 @@ name: 'Rahul Vijayakumar'
 description: 'A Tech Blog'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: 'https://www.rahulvk.com/'
+baseurl: '/'
 disqus:
 email: 'rahulvijayakumarpt4551@gmail.com'
 mailchimp-list:
