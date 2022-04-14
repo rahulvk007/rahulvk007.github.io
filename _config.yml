@@ -1,8 +1,8 @@
 # Site
 name: 'Rahul Vijayakumar'
 description: 'A Tech Blog'
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
+logo: 'assets/images/mylogo.png'
+favicon: 'assets/images/mylogo.png'
 baseurl: '/'
 disqus:
 email: 'rahulvijayakumarpt4551@gmail.com'
