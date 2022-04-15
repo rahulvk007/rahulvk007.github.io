@@ -5,7 +5,7 @@ permalink: "/cookie-policy.html"
 
 <h1>Cookie Policy for rahulvk.com</h1>
 
-<p>This is the Cookie Policy for rahulvk.com, accessible from rahulvk.com</p>
+<p>This is the Cookie Policy for rahulvk.com</p>
 
 <p><strong>What Are Cookies</strong></p>
 

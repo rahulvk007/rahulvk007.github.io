@@ -5,7 +5,7 @@ permalink: "/privacy-policy.html"
 
 <h1>Privacy Policy for rahulvk.com</h1>
 
-<p>At rahulvk.com, accessible from rahulvk.com, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by rahulvk.com and how we use it.</p>
+<p>At rahulvk.com, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by rahulvk.com and how we use it.</p>
 
 <p>If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.</p>
 
