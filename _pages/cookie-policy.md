@@ -1,6 +1,5 @@
 ---
 title: "Our Cookie Policy"
-layout: default
 permalink: "/cookie-policy.html"
 ---
 
