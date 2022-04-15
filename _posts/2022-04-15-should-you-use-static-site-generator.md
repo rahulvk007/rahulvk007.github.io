@@ -1,9 +1,13 @@
+---
+
 layout: post  
 title:  "Should you use a static site generator for your next blog ?"  
 author: rahul  
 categories: [BLOG]  
 image: assets/images/servers.jpg  
 tags: [featured]  
+
+---
 
 Static site generator simply put is a tool to generate full html website without in most cases wiriting actual html, css or javascript code. You usually write your posts in a markup language like markdown and they are rendered into html by the static site generator during build time. After the **SSG** (Static Site Generator) builds your site , you will usually recieve a folder containing the html files for your website which you can upload to any webserver or web host to publish your website. 
 
@@ -50,8 +54,6 @@ Now that we have talked about the ideal use cases for a static site generator, l
 - Version control
   
   Most people use Static Site Generators with some version control like Git. This makes it very easy to just roll back any changes if you accidentally break your site.If you are using dynamic CMS , unless you are taking regular backups manually it might be very difficult to roll back any changes if you accidentally break your site.
-
-
 
 Now let's look at a few disadvantages of using a static site generator
 
