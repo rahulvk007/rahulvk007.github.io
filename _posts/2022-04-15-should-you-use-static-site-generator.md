@@ -4,7 +4,8 @@ layout: post
 title:  "Should you use a static site generator for your next blog ?"  
 author: rahul  
 categories: [BLOG]  
-image: assets/images/servers.jpg  
+image: assets/images/servers.jpg 
+description: "Here we take a look at static site generators and discuss for what use cases they are suitable. We also take a look at the advantages and disadvantages of using one."
 tags: [featured]  
 
 ---
