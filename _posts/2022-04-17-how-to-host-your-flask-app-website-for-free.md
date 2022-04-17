@@ -102,7 +102,7 @@ Here you should see this screen.  Select continue with Github. If you don't see 
 
 Now select add github account. 
 
-![adding your github account to vercel](https://www.rahulvk.com/assets/images/add-githubaccount.jpg)
+![adding your github account to vercel](https://www.rahulvk.com/assets/images/addgithub-account.jpg)
 
 Now you will see a prompt to install vercel to your github account. Click on the install button. Now you should see all your github repositories in Vercel. Select the repository that we just created.
 
@@ -110,7 +110,7 @@ Now you will see a prompt to install vercel to your github account. Click on the
 
 Now you will see a screen like this . Click on deploy.
 
-![deploying our project to vercel](https://www.rahulvk.com/assets/images/deploy-to-vercel.jpg)
+![deploying our project to vercel](https://www.rahulvk.com/assets/images/deploying-to-vercel.jpg)
 
 After it finishes deploying , click on go to dashboard and you will see your deployed project there.
 
@@ -148,10 +148,18 @@ def hello_world():
 
 Now upload our updated project files to our Github repository. Once you do that, Vercel should automatically start building and deploying the changes we have made to our site. If you go to your project dashboard in Vercel, you should see that Vercel is building our project.
 
-![deploying our updated project](https://www.rahulvk.com/assets/image/building-project.jpg)
+![deploying our updated project](https://www.rahulvk.com/assets/images/building-project.jpg)
 
 Now if you vist the same url, you should see the changes we made.
 
-![updated site]()
+![updated site](https://www.rahulvk.com/assets/images/updated-site.jpg)
 
+That's it!
 
+Now if you want to add static files like css, js and images, just create a folder named static on the root of your project directory and store it there. 
+
+You can add database connectivity and other features to your website. Just don't forget to add the new modules to your requirements.txt file. 
+
+You can connect a custom domain that you own to your site for free. Just go to the view domains tab of your deployment and add your domain there.
+
+I am soon going to start a flask tutorial series on this blog where we will create a full fledged website with cms on flask and mongodb. I will also show you how you can make use of Vercel and Mongodb Atlas to host it for free.
